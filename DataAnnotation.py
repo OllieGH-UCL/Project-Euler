@@ -1,6 +1,5 @@
 # $ pip install requests lxml pandas
 
-
 import requests
 from lxml import html
 import pandas as pd
