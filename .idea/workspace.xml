@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="805ff9d1-b892-441d-867c-70fe7dbdcf13" name="Changes" comment="16/04/26">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_euler_answers_v1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project_euler_answers_v1.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="805ff9d1-b892-441d-867c-70fe7dbdcf13" name="Changes" comment="16/04/26" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776326906608</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="16/04/26">
+      <option name="closed" value="true" />
+      <created>1776430818358</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776430818358</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
